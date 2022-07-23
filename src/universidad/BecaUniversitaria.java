@@ -44,5 +44,4 @@ public class BecaUniversitaria {
         double compuesto = pMonto * (Math.pow(base, pTiempo) - 1);
         return Math.round(compuesto);
     }
-
 }
